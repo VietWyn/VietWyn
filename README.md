@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VietWyn 
 - 👀 I’m interested in ..code Python
-- 🌱 I’m currently learning ...University
+- 🌱 I’m currently learning ... UTE University
 - 📫 Phone number: 0385479194
 
 <!---
